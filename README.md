@@ -50,8 +50,7 @@ Aristotle University of Thessaloniki, Greece
 September 2022
 
 
-## Experiments
-This folder contains the files for all the experiments after the preprocessing and the feature extraction phase:
+## Experiments:
 
 ----------------------
 Experiments set 1:
@@ -104,3 +103,10 @@ For Experiment 3 in Binary classifiers (or maybe if you want to try using featur
 For LOSO-like split, use leftout.py and leftout_original.py
 
 Of course for confidentiality reasons and participants' privacy, the files of features as well as the recordings will remain private.
+
+## Status
+As of the completion of the project, it will probably be modified in case of more research in the field. It may hold inaccuracies and could be implemented in more efficient ways regarding speed and recources management.
+
+## Support - Contact
+Reach out to me:
+- dimitris.kave@gmail.com
