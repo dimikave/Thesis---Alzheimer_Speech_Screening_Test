@@ -37,9 +37,13 @@ resulting to a mean accuracy of 80.99%, on the second set, the best classificati
 achieved using models trained on features per stage reaching an accuracy of 60%, while
 on the third set, the distinctive ability of the models was shown resulting to accuracies
 of 94.1% for Healthy vs MCI, 91.4% for Healthy vs SCD and 71.5% for SCD vs MCI.
+
 Kavelidis Frantzis Dimitrios
+
 Electrical & Computer Engineering Department,
+
 Aristotle University of Thessaloniki, Greece
+
 September 2022
 
 ## Folders
