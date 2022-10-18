@@ -54,36 +54,37 @@ September 2022
 ### Experiments
 This folder contains the files for all the experiments after the preprocessing and the feature extraction phase:
 
+----------------------
 Experiments set 1:
 Random (80%-20%) split
-
+----------------------
 Experiment 1: Classification per stage of recording
 
 Experiment 2: Classification using recordings/features from every stage
 
 Experiment 3: Classification per stage difference
----
-Experiment 4: Classification using Enseble Majority Voting System
-----------------------
 
+Experiment 4: Classification using Enseble Majority Voting System
+
+----------------------
 Experiments set 2:
 LOSO-like split / Split per people (not using same people on test and train sets)
 ----------------------
 Experiment 5: Classification per stage of recording
----
+
 Experiment 6: Classification using recordings/features from every stage
----
+
 Experiment 7: Classification per stage difference
----
+
 Experiment 8: Classification using Enseble Majority Voting System
+
 ----------------------
- 
 Experiments set 3:
 Binary classifiers / Split per people
 ----------------------
-Experiment 1 (hm,sm,hs): Classification per stage of recording (Binary) [Healthy vs MCI, SCD vs MCI, Healthy vs SCD]
----
-Experiment 2 (hm,sm,hs): Classification using recordings/features from every stage [Healthy vs MCI, SCD vs MCI, Healthy vs SCD]
----
-Experiment 3 (hm,sm,hs): Classification using Enseble Majority Voting System [Healthy vs MCI, SCD vs MCI, Healthy vs SCD]
-----------------------
+Experiment 1 (hm,sm,hs): Classification per stage of recording (Binary: Healthy vs MCI, SCD vs MCI, Healthy vs SCD)
+
+Experiment 2 (hm,sm,hs): Classification using recordings/features from every stage (Binary: Healthy vs MCI, SCD vs MCI, Healthy vs SCD)
+
+Experiment 3 (hm,sm,hs): Classification using Enseble Majority Voting System (Binary: Healthy vs MCI, SCD vs MCI, Healthy vs SCD)
+
