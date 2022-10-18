@@ -88,3 +88,10 @@ Experiment 2 (hm,sm,hs): Classification using recordings/features from every sta
 
 Experiment 3 (hm,sm,hs): Classification using Enseble Majority Voting System (Binary: Healthy vs MCI, SCD vs MCI, Healthy vs SCD)
 
+----------------------
+Experiments set 4:
+Additional Experiments
+----------------------
+Diagnosis vs Human Identification ?! / Classification to 84 classes (number of participants), to check if the models learn to identify cognitive decline patterns or specific/personal features of voice
+
+Evaluation of questions
