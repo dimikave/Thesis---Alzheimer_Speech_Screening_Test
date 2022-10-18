@@ -98,11 +98,16 @@ Evaluation of questions
 ----------------------
 To get Ensemble Majority Voting System's final decision (Experiments 4, 8):
 
--Step 1: feature_extraction.py to get all the csv files containing the features for each stage 
+-Step 1: feature_extraction.py to get all the csv files containing the features for each stage
+
 -Step 2: completing_csv.py to fill in the demographic info
+
 -Step 3: new_features_extraction.py to get all the csv files containing the features for each stage difference
+
 -Step 4: completing_csv.py to fill in the demographic info
+
 -Step 5: train_final_models.py to train all the models and scalers that are going to be used in the Enseble Majority Voting System
+
 -Step 6: final_decision.py to get the results
 
 For Experiment 3 in Binary classifiers (or maybe if you want to try using features per stage instead of features per stage difference), just ignore step 3 and 4.
