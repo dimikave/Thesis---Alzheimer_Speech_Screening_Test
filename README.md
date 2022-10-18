@@ -112,3 +112,5 @@ To get Ensemble Majority Voting System's final decision (Experiments 4, 8):
 -Step 6: final_decision.py to get the results
 
 For Experiment 3 in Binary classifiers (or maybe if you want to try using features per stage instead of features per stage difference), just ignore step 3 and 4.
+
+For LOSO-like split, use leftout.py and leftout_original.py
