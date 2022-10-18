@@ -104,6 +104,8 @@ For LOSO-like split, use leftout.py and leftout_original.py
 
 Of course for confidentiality reasons and participants' privacy, the files of features as well as the recordings will remain private.
 
+Interview protocol and concent form for participants are both available (in Greek).
+
 ## Status
 As of the completion of the project, it will probably be modified in case of more research in the field. It may hold inaccuracies and could be implemented in more efficient ways regarding speed and recources management.
 
