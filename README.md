@@ -103,3 +103,4 @@ For Experiment 3 in Binary classifiers (or maybe if you want to try using featur
 
 For LOSO-like split, use leftout.py and leftout_original.py
 
+Of course for confidentiality reasons and participants' privacy, the files of features as well as the recordings will remain private.
