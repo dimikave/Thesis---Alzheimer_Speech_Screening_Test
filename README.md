@@ -95,6 +95,7 @@ Additional Experiments
 Diagnosis vs Human Identification ?! / Classification to 84 classes (number of participants), to check if the models learn to identify cognitive decline patterns or specific/personal features of voice / Showing issues of experiments set 1 regarding the indipendance of the instances
 
 Evaluation of questions
+
 ----------------------
 To get Ensemble Majority Voting System's final decision (Experiments 4, 8):
 
