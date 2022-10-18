@@ -11,16 +11,19 @@ environment and usually requires a lot of time. To make the diagnosis process si
 studies exist that focus on the speech decline which usually accompanies the cognitive
 one, so as to classify people according to their cognitive status, often by collecting speech
 data from structured interviews and deploying a machine learning model.
+
 In this study, the validity of a multiclass classification process is examined, aiming to
 robustly differentiate between earlier stages of the clinical spectrum of aging. Τhe target
 classes of this study comprise Healthy controls, Subjective Cognitive Decline (SCD),
 Early-MCI (E-MCI), Late-MCI (L-MCI).
+
 To collect data, 84 persons, aged 50 to 85, were recorded at the Greek Association of
 Alzheimer’s Disease and Related Disorders (GAADRD) center “Agia Eleni”, collecting
 a total of 1621 recordings along with their personal information. The recording process
 consisted of 5 different stages having the format of an informal interview with questions
 and dual-task prompts, so as to steadily increase the required cognitive effort, aiming at
 examining the performance differences across the stages.
+
 Three different types of audio features were extracted: silence features, prosodic
 features, and zero-crossings features. To quantify the changes in the participants’ speech
 between stages, a new feature vector was formed by subtracting the individual feature
