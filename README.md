@@ -49,9 +49,8 @@ Aristotle University of Thessaloniki, Greece
 
 September 2022
 
-## Folders
 
-### Experiments
+## Experiments
 This folder contains the files for all the experiments after the preprocessing and the feature extraction phase:
 
 ----------------------
@@ -88,6 +87,9 @@ Additional Experiments
 * Evaluation of questions
 
 ----------------------
+
+## Explanations
+
 To get Ensemble Majority Voting System's final decision (Experiments 4, 8):
 
 * Step 1: feature_extraction.py to get all the csv files containing the features for each stage
@@ -100,3 +102,4 @@ To get Ensemble Majority Voting System's final decision (Experiments 4, 8):
 For Experiment 3 in Binary classifiers (or maybe if you want to try using features per stage instead of features per stage difference), just ignore step 3 and 4.
 
 For LOSO-like split, use leftout.py and leftout_original.py
+
