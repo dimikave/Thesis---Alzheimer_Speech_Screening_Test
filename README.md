@@ -92,6 +92,6 @@ Experiment 3 (hm,sm,hs): Classification using Enseble Majority Voting System (Bi
 Experiments set 4:
 Additional Experiments
 ----------------------
-Diagnosis vs Human Identification ?! / Classification to 84 classes (number of participants), to check if the models learn to identify cognitive decline patterns or specific/personal features of voice
+Diagnosis vs Human Identification ?! / Classification to 84 classes (number of participants), to check if the models learn to identify cognitive decline patterns or specific/personal features of voice / Showing issues of experiments set 1 regarding the indipendance of the instances
 
 Evaluation of questions
