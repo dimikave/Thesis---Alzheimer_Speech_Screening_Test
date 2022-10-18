@@ -56,11 +56,11 @@ This folder contains the files for all the experiments after the preprocessing a
 
 Experiments set 1:
 Random (80%-20%) split
-----------------------
+
 Experiment 1: Classification per stage of recording
----
+
 Experiment 2: Classification using recordings/features from every stage
----
+
 Experiment 3: Classification per stage difference
 ---
 Experiment 4: Classification using Enseble Majority Voting System
