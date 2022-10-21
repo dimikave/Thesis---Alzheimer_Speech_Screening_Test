@@ -319,7 +319,7 @@ files5 = glob(seg_recs_path+'/*[5].wav')
 
 
 # feature_extraction_per_stage(files2, 'Features_Stage_2.csv',going_for_all=True)
-folder = 'C:/Users/MSI User/OneDrive - Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης/10ο Εξάμηνο - Διπλωματική/Alz - Speech/Speech Data/Segmented Recs/Antonogianni_Maria'
+folder = 'C:/Users/MSI User/OneDrive - Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης/10ο Εξάμηνο - Διπλωματική/Alz - Speech/Speech Data/Segmented Recs/name'
 
 
 
